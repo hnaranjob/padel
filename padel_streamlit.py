@@ -5,6 +5,24 @@ import pandas as pd
 DATA_FILE_ENJOY = "resultados_enjoy.csv"
 DATA_FILE_ENERGY = "resultados_energy.csv"
 
+# Definir parejas
+parejas_enjoy = {
+    "A": "Gerard Oliveira – Pau Claret",
+    "B": "Helena Naranjo – Lorena Martinez",
+    "C": "Francisco Fortunato – Naomi Lindheimer",
+    "D": "Pablo Cañaveras – Paula Penas"
+    "E": "Chema Iglesias – Ausias Garcia"
+    "F": "Àlex Dinaret – Raúl Cuevas"
+    "G": "Oscar Machuca – Igor Almada"
+}
+
+parejas_energy = {
+    "H": "Marcel Ferré - Marianella Abosso ",
+    "I": "Ferran Sanabre - Garazi Lejarza",
+    "J": "Erika Tomulete - Maira Montezuma",
+    "K": "Mar Sánchez - Carla Benlloch"
+}
+
 # Función para cargar datos
 def cargar_datos(file):
     try:
@@ -16,11 +34,14 @@ def cargar_datos(file):
 st.title("Torneo de Pádel 🏆")
 opcion_copa = st.selectbox("Elige la copa:", ["Copa Enjoy", "Copa Energy"])
 
+# Mostrar parejas según la copa seleccionada
+st.header(f"Parejas - {opcion_copa}")
+parejas = parejas_enjoy if opcion_copa == "Copa Enjoy" else parejas_energy
+for letra, jugadores in parejas.items():
+    st.write(f"**Pareja {letra}:** {jugadores}")
+
 # Definir archivo según selección
-if opcion_copa == "Copa Enjoy":
-    DATA_FILE = DATA_FILE_ENJOY
-else:
-    DATA_FILE = DATA_FILE_ENERGY
+DATA_FILE = DATA_FILE_ENJOY if opcion_copa == "Copa Enjoy" else DATA_FILE_ENERGY
 
 df = cargar_datos(DATA_FILE)
 
@@ -92,3 +113,6 @@ if not ranking_df.empty and "Puntos Ganados" in ranking_df and "Puntos Perdidos"
     ranking_df = ranking_df.sort_values(by=["Victorias", "Puntos Ganados", "Diferencia de Puntos"], ascending=[False, False, False])
 else:
     st.warning("No hay suficientes datos para generar el ranking.")
+
+# Mostrar ranking
+st.dataframe(ranking_df)
