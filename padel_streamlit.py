@@ -72,10 +72,13 @@ for index, row in df.iterrows():
         ranking_dict[pareja]["Derrotas"] += 1 - victoria
         ranking_dict[pareja]["Puntos Ganados"] += puntos_favor
         ranking_dict[pareja]["Puntos Perdidos"] += puntos_contra
-
+        
 # Convertir a DataFrame y calcular diferencia de puntos
-ranking_df = pd.DataFrame.from_dict(ranking_dict, orient="index")
-ranking_df["Diferencia de Puntos"] = ranking_df["Puntos Ganados"] - ranking_df["Puntos Perdidos"]
+if not ranking_df.empty and "Puntos Ganados" in ranking_df and "Puntos Perdidos" in ranking_df:
+    ranking_df["Diferencia de Puntos"] = ranking_df["Puntos Ganados"] - ranking_df["Puntos Perdidos"]
+    ranking_df = ranking_df.sort_values(by=["Victorias", "Puntos Ganados", "Diferencia de Puntos"], ascending=[False, False, False])
+else:
+    st.warning("No hay suficientes datos para generar el ranking.")
 
 # Ordenar por victorias, luego puntos ganados, luego diferencia de puntos
 ranking_df = ranking_df.sort_values(by=["Victorias", "Puntos Ganados", "Diferencia de Puntos"], ascending=[False, False, False])
