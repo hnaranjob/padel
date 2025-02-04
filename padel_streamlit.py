@@ -10,9 +10,9 @@ parejas_enjoy = {
     "A": "Gerard Oliveira – Pau Claret",
     "B": "Helena Naranjo – Lorena Martinez",
     "C": "Francisco Fortunato – Naomi Lindheimer",
-    "D": "Pablo Cañaveras – Paula Penas"
-    "E": "Chema Iglesias – Ausias Garcia"
-    "F": "Àlex Dinaret – Raúl Cuevas"
+    "D": "Pablo Cañaveras – Paula Penas",
+    "E": "Chema Iglesias – Ausias Garcia",
+    "F": "Àlex Dinaret – Raúl Cuevas",
     "G": "Oscar Machuca – Igor Almada"
 }
 
