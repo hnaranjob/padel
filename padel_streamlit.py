@@ -40,7 +40,7 @@ if st.button("Enviar"):
         df = pd.concat([df, nuevo_resultado], ignore_index=True)
         df.to_csv(DATA_FILE, index=False)
         st.success("Resultado guardado!")
-        st.experimental_rerun()
+        st.rerun()
     else:
         st.error("Por favor, completa todos los campos.")
 
