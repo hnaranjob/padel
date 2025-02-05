@@ -6,7 +6,7 @@ DATA_FILE_ENJOY = "resultados_enjoy.csv"
 DATA_FILE_ENERGY = "resultados_energy.csv"
 
 # Definir parejas
-parejas_enjoy = {
+parejas_energy = {
     "A": "Gerard Oliveira – Pau Claret",
     "B": "Helena Naranjo – Lorena Martinez",
     "C": "Francisco Fortunato – Naomi Lindheimer",
@@ -16,7 +16,7 @@ parejas_enjoy = {
     "G": "Oscar Machuca – Igor Almada"
 }
 
-parejas_energy = {
+parejas_enjoy = {
     "H": "Marcel Ferré - Marianella Abosso ",
     "I": "Ferran Sanabre - Garazi Lejarza",
     "J": "Erika Tomulete - Maira Montezuma",
