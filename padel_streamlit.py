@@ -23,7 +23,7 @@ parejas_enjoy = {
     "K": "Mar Sánchez - Carla Benlloch"
 }
 
-parejas = parejas_energy+parejas_enjoy
+parejas = parejas_energy|parejas_enjoy
 
 # Función para cargar datos
 def cargar_datos(file):
