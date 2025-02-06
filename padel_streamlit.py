@@ -52,7 +52,7 @@ st.header(f"Subir Resultado - {opcion_copa}")
 col1, col2, col3 = st.columns(3)
 with col1:
     Pareja1 = st.text_input("Pareja 1").upper()
-    Pareja1 = parejas[Pareja1]
+    #Pareja1 = parejas[Pareja1]
 with col2:
     Pareja2 = st.text_input("Pareja 2").upper()
 with col3:
