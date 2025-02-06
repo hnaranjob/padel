@@ -32,7 +32,7 @@ def cargar_datos(file):
 
 # Selección de copa
 st.title("Torneo de Pádel 🏆")
-opcion_copa = st.selectbox("Elige la copa:", ["Copa Enjoy", "Copa Energy"])
+opcion_copa = st.selectbox("Elige la copa:", ["Copa Energy", "Copa Enjoy"])
 
 # Mostrar parejas según la copa seleccionada
 st.header(f"Parejas - {opcion_copa}")
