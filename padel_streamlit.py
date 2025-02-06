@@ -23,6 +23,8 @@ parejas_enjoy = {
     "K": "Mar Sánchez - Carla Benlloch"
 }
 
+parejas = parejas_energy+parejas_enjoy
+
 # Función para cargar datos
 def cargar_datos(file):
     try:
@@ -50,6 +52,7 @@ st.header(f"Subir Resultado - {opcion_copa}")
 col1, col2, col3 = st.columns(3)
 with col1:
     Pareja1 = st.text_input("Pareja 1").upper()
+    Pareja1 = parejas[Pareja1]
 with col2:
     Pareja2 = st.text_input("Pareja 2").upper()
 with col3:
@@ -110,7 +113,7 @@ ranking_df = pd.DataFrame.from_dict(ranking_dict, orient="index")
 # Verificar si hay datos antes de calcular la diferencia de puntos
 if not ranking_df.empty and "Puntos Ganados" in ranking_df and "Puntos Perdidos" in ranking_df:
     ranking_df["Diferencia de Puntos"] = ranking_df["Puntos Ganados"] - ranking_df["Puntos Perdidos"]
-    ranking_df = ranking_df.sort_values(by=["Victorias","Diferencia de Puntos"], ascending=[False, False, False])
+    ranking_df = ranking_df.sort_values(by=["Victorias","Diferencia de Puntos"], ascending=[False, False])
 else:
     st.warning("No hay suficientes datos para generar el ranking.")
 
