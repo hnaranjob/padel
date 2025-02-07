@@ -118,4 +118,4 @@ else:
     st.warning("No hay suficientes datos para generar el ranking.")
 
 # Mostrar ranking
-st.dataframe(ranking_df)
+st.dataframe(ranking_df.sort_values(by=["Victorias","Diferencia de Puntos"], ascending=[False, False]))
