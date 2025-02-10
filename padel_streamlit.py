@@ -7,7 +7,7 @@ DATA_FILE_ENERGY = "resultados_energy.csv"
 
 # Definir parejas
 parejas_energy = {
-    "A": "hola Gerard Oliveira – Pau Claret",
+    "A": "Gerard Oliveira – Pau Claret",
     "B": "Helena Naranjo – Lorena Martinez",
     "C": "Francisco Fortunato – Naomi Lindheimer",
     "D": "Pablo Cañaveras – Paula Penas",
