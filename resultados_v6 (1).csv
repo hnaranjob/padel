@@ -1,0 +1,663 @@
+ACTION_NAME,ID_FECHA,CLICKED,HOMBRE,MUJER,SEXO,GENERO,GENERO_bien,error,HA_COMPRADO,compra_coincide,COINCIDE_CLICK_COMPRA,clientes,compras
+BESTSELLERS,0,0,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,227975,0
+BESTSELLERS,0,0,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,12688,0
+BESTSELLERS,0,0,0.0,0.0,1,HOMBRE,MUJER,1,no ha comprado,no coincide,no coincide,5,0
+BESTSELLERS,0,0,0.0,0.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,511178,0
+BESTSELLERS,0,0,0.0,0.0,2,NS/NC,HOMBRE,1,no ha comprado,no coincide,no coincide,57669,0
+BESTSELLERS,0,0,0.0,0.0,3,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,335,0
+BESTSELLERS,0,0,0.0,0.0,4,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,568,0
+BESTSELLERS,0,0,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,48753,0
+BESTSELLERS,0,0,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,2234,0
+BESTSELLERS,0,0,0.0,1.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,162943,0
+BESTSELLERS,0,0,0.0,1.0,2,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,11200,0
+BESTSELLERS,0,0,0.0,1.0,3,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,128,0
+BESTSELLERS,0,0,0.0,1.0,4,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,246,0
+BESTSELLERS,0,0,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,1463,0
+BESTSELLERS,0,0,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,64,0
+BESTSELLERS,0,0,1.0,0.0,1,MUJER,HOMBRE,1,no ha comprado,no coincide,no coincide,2896,0
+BESTSELLERS,0,0,1.0,0.0,2,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,4059,0
+BESTSELLERS,0,0,1.0,0.0,3,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,11,0
+BESTSELLERS,0,0,1.0,0.0,4,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,21,0
+BESTSELLERS,0,0,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,4127,0
+BESTSELLERS,0,0,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,185,0
+BESTSELLERS,0,0,1.0,1.0,1,MUJER,MIXTO,1,no ha comprado,no coincide,no coincide,11849,0
+BESTSELLERS,0,0,1.0,1.0,2,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,3043,0
+BESTSELLERS,0,0,1.0,1.0,3,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,9,0
+BESTSELLERS,0,0,1.0,1.0,4,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,33,0
+BESTSELLERS,0,1,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,2498,0
+BESTSELLERS,0,1,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,170,0
+BESTSELLERS,0,1,0.0,0.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,6514,0
+BESTSELLERS,0,1,0.0,0.0,2,NS/NC,HOMBRE,1,no ha comprado,no coincide,no coincide,530,0
+BESTSELLERS,0,1,0.0,0.0,3,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,3,0
+BESTSELLERS,0,1,0.0,0.0,4,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,7,0
+BESTSELLERS,0,1,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,1237,0
+BESTSELLERS,0,1,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,64,0
+BESTSELLERS,0,1,0.0,1.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,5197,0
+BESTSELLERS,0,1,0.0,1.0,2,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,175,0
+BESTSELLERS,0,1,0.0,1.0,3,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,3,0
+BESTSELLERS,0,1,0.0,1.0,4,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,7,0
+BESTSELLERS,0,1,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,35,0
+BESTSELLERS,0,1,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,2,0
+BESTSELLERS,0,1,1.0,0.0,1,MUJER,HOMBRE,1,no ha comprado,no coincide,no coincide,37,0
+BESTSELLERS,0,1,1.0,0.0,2,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,173,0
+BESTSELLERS,0,1,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,159,0
+BESTSELLERS,0,1,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,6,0
+BESTSELLERS,0,1,1.0,1.0,1,MUJER,MIXTO,1,no ha comprado,no coincide,no coincide,665,0
+BESTSELLERS,0,1,1.0,1.0,2,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,146,0
+BESTSELLERS,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,70.3822
+BESTSELLERS,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,140,11601.0394
+BESTSELLERS,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,2,264.2388
+BESTSELLERS,2025-02-12,0,0.0,0.0,1,HOMBRE,MUJER,1,ha comprado,no coincide,no coincide,1,35.9800
+BESTSELLERS,2025-02-12,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,8,404.9796
+BESTSELLERS,2025-02-12,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,256,18613.4634
+BESTSELLERS,2025-02-12,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,21,1325.2100
+BESTSELLERS,2025-02-12,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,coincide,no coincide,1,12.8929
+BESTSELLERS,2025-02-12,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,60.6059
+BESTSELLERS,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,166.7289
+BESTSELLERS,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,93,8250.1380
+BESTSELLERS,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,410.7122
+BESTSELLERS,2025-02-12,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,22,924.2441
+BESTSELLERS,2025-02-12,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,369,30901.5607
+BESTSELLERS,2025-02-12,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,18,1618.1850
+BESTSELLERS,2025-02-12,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,312.8300
+BESTSELLERS,2025-02-12,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,3,335.0200
+BESTSELLERS,2025-02-12,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,7,479.6300
+BESTSELLERS,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,49.3694
+BESTSELLERS,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,11,731.9031
+BESTSELLERS,2025-02-12,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,80.5200
+BESTSELLERS,2025-02-12,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,73,6337.9922
+BESTSELLERS,2025-02-12,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,7,310.2800
+BESTSELLERS,2025-02-12,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,35,3381.1898
+BESTSELLERS,2025-02-12,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,1,77.2471
+BESTSELLERS,2025-02-12,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,7,570.0276
+BESTSELLERS,2025-02-12,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,52,4865.6279
+BESTSELLERS,2025-02-12,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,2,148.1882
+BESTSELLERS,2025-02-12,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,3,156.5400
+BESTSELLERS,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,72.7300
+BESTSELLERS,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,40,4659.2082
+BESTSELLERS,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,99.9500
+BESTSELLERS,2025-02-12,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,18,1047.1638
+BESTSELLERS,2025-02-12,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,148,15041.3396
+BESTSELLERS,2025-02-12,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,118.1100
+BESTSELLERS,2025-02-12,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,5,432.4500
+BESTSELLERS,2025-02-12,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,62.9600
+BESTSELLERS,2025-02-12,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,12,1168.5307
+BESTSELLERS,2025-02-12,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,129.7332
+BESTSELLERS,2025-02-12,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,24,2092.0612
+BESTSELLERS,2025-02-12,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,154.3191
+BESTSELLERS,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,3,200.0385
+BESTSELLERS,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,109,10833.1733
+BESTSELLERS,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,8,821.3673
+BESTSELLERS,2025-02-13,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,13,597.2246
+BESTSELLERS,2025-02-13,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,236,18234.2806
+BESTSELLERS,2025-02-13,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,2,72.9400
+BESTSELLERS,2025-02-13,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,31,2517.5745
+BESTSELLERS,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,187.2349
+BESTSELLERS,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,101,9410.3160
+BESTSELLERS,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,20.9600
+BESTSELLERS,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,538.6670
+BESTSELLERS,2025-02-13,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,20,1065.9799
+BESTSELLERS,2025-02-13,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,338,28168.1315
+BESTSELLERS,2025-02-13,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,45.5000
+BESTSELLERS,2025-02-13,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,14,873.0600
+BESTSELLERS,2025-02-13,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,59.5000
+BESTSELLERS,2025-02-13,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,4,253.5700
+BESTSELLERS,2025-02-13,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,3,141.0387
+BESTSELLERS,2025-02-13,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,4,652.8035
+BESTSELLERS,2025-02-13,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,3,212.3323
+BESTSELLERS,2025-02-13,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,18,1306.7369
+BESTSELLERS,2025-02-13,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,4,223.0133
+BESTSELLERS,2025-02-13,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,62,6129.1565
+BESTSELLERS,2025-02-13,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,19,1073.8428
+BESTSELLERS,2025-02-13,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,10,616.9276
+BESTSELLERS,2025-02-13,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,189.8300
+BESTSELLERS,2025-02-13,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,30,2953.7993
+BESTSELLERS,2025-02-13,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,6,397.7900
+BESTSELLERS,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,151.7010
+BESTSELLERS,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,13,1600.7677
+BESTSELLERS,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,99.9500
+BESTSELLERS,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,104.9100
+BESTSELLERS,2025-02-13,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,301.2813
+BESTSELLERS,2025-02-13,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,70,6467.9130
+BESTSELLERS,2025-02-13,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,72.9600
+BESTSELLERS,2025-02-13,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,74.5000
+BESTSELLERS,2025-02-13,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,50.0333
+BESTSELLERS,2025-02-13,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,166.8239
+BESTSELLERS,2025-02-13,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,160.8402
+BESTSELLERS,2025-02-13,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,13,1303.6298
+BESTSELLERS,2025-02-13,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,7,431.9700
+BESTSELLERS,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,3,74.2500
+BESTSELLERS,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,297,26901.0576
+BESTSELLERS,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,12,863.2945
+BESTSELLERS,2025-02-14,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,27,1408.8959
+BESTSELLERS,2025-02-14,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,567,47942.3666
+BESTSELLERS,2025-02-14,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,5,147.8800
+BESTSELLERS,2025-02-14,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,37,3368.1410
+BESTSELLERS,2025-02-14,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,3,245.4308
+BESTSELLERS,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,24,998.8969
+BESTSELLERS,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,308,29581.4761
+BESTSELLERS,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,151.4937
+BESTSELLERS,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,23,2456.7881
+BESTSELLERS,2025-02-14,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,68,2689.1113
+BESTSELLERS,2025-02-14,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1126,104353.4698
+BESTSELLERS,2025-02-14,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,35,3762.0324
+BESTSELLERS,2025-02-14,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,516.9470
+BESTSELLERS,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,164.4100
+BESTSELLERS,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,2,288.5500
+BESTSELLERS,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,34.9700
+BESTSELLERS,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,132.9000
+BESTSELLERS,2025-02-14,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,8,576.7300
+BESTSELLERS,2025-02-14,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,5,214.3800
+BESTSELLERS,2025-02-14,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,26,2535.3464
+BESTSELLERS,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,58.3897
+BESTSELLERS,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,48,4810.2624
+BESTSELLERS,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,29.9700
+BESTSELLERS,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,6,885.0463
+BESTSELLERS,2025-02-14,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,15,631.1422
+BESTSELLERS,2025-02-14,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,222,21726.1259
+BESTSELLERS,2025-02-14,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,5,147.0330
+BESTSELLERS,2025-02-14,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,34,3107.9841
+BESTSELLERS,2025-02-14,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,26,1932.1281
+BESTSELLERS,2025-02-14,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,7,293.4200
+BESTSELLERS,2025-02-14,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,68,4918.2591
+BESTSELLERS,2025-02-14,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,39.9700
+BESTSELLERS,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,6,276.1094
+BESTSELLERS,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,50,4463.7049
+BESTSELLERS,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,205.4200
+BESTSELLERS,2025-02-14,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,13,416.0341
+BESTSELLERS,2025-02-14,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,197,17515.4381
+BESTSELLERS,2025-02-14,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,680.7153
+BESTSELLERS,2025-02-14,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,31.4900
+BESTSELLERS,2025-02-14,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,29.9700
+BESTSELLERS,2025-02-14,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,6,463.1675
+BESTSELLERS,2025-02-14,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,55.2250
+BESTSELLERS,2025-02-14,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,7,623.5222
+BESTSELLERS,2025-02-14,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,4,177.9331
+BESTSELLERS,2025-02-14,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,51,4185.3489
+BESTSELLERS,2025-02-14,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,56.6000
+BESTSELLERS,2025-02-14,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,10,810.1100
+BESTSELLERS,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,4,222.9429
+BESTSELLERS,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,268,24995.5561
+BESTSELLERS,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,10,1047.6600
+BESTSELLERS,2025-02-15,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,20,894.5914
+BESTSELLERS,2025-02-15,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,513,48394.3819
+BESTSELLERS,2025-02-15,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,40,3320.8110
+BESTSELLERS,2025-02-15,0,0.0,0.0,3,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,2,346.3029
+BESTSELLERS,2025-02-15,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,coincide,no coincide,1,59.9400
+BESTSELLERS,2025-02-15,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,64.0205
+BESTSELLERS,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,9,276.3033
+BESTSELLERS,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,245,24862.0666
+BESTSELLERS,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,268.6016
+BESTSELLERS,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,12,2416.0068
+BESTSELLERS,2025-02-15,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,58,2954.7690
+BESTSELLERS,2025-02-15,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,953,85192.9098
+BESTSELLERS,2025-02-15,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,3,151.7100
+BESTSELLERS,2025-02-15,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,34,3145.0528
+BESTSELLERS,2025-02-15,0,0.0,1.0,3,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,77.7800
+BESTSELLERS,2025-02-15,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,44.9700
+BESTSELLERS,2025-02-15,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,139.9938
+BESTSELLERS,2025-02-15,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,2,97.1900
+BESTSELLERS,2025-02-15,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,7,798.2070
+BESTSELLERS,2025-02-15,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,7,751.6767
+BESTSELLERS,2025-02-15,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,204.3800
+BESTSELLERS,2025-02-15,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,17,1394.5437
+BESTSELLERS,2025-02-15,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,10.4900
+BESTSELLERS,2025-02-15,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,37,4050.5277
+BESTSELLERS,2025-02-15,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,175.3100
+BESTSELLERS,2025-02-15,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,12,429.6000
+BESTSELLERS,2025-02-15,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,196,19083.2690
+BESTSELLERS,2025-02-15,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,49.9400
+BESTSELLERS,2025-02-15,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,31,3107.8422
+BESTSELLERS,2025-02-15,0,1.0,1.0,3,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,49.9800
+BESTSELLERS,2025-02-15,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,19,1990.8443
+BESTSELLERS,2025-02-15,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,1,94.9400
+BESTSELLERS,2025-02-15,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,206.4982
+BESTSELLERS,2025-02-15,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,36,3343.8968
+BESTSELLERS,2025-02-15,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,2,254.9900
+BESTSELLERS,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,94.2406
+BESTSELLERS,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,24,2483.0596
+BESTSELLERS,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,83.0800
+BESTSELLERS,2025-02-15,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,8,368.5700
+BESTSELLERS,2025-02-15,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,143,13304.9580
+BESTSELLERS,2025-02-15,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,289.0300
+BESTSELLERS,2025-02-15,1,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,1,59.9400
+BESTSELLERS,2025-02-15,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,159.8900
+BESTSELLERS,2025-02-15,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,123.0500
+BESTSELLERS,2025-02-15,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,34.9700
+BESTSELLERS,2025-02-15,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,3,194.4400
+BESTSELLERS,2025-02-15,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,24,1991.2082
+BESTSELLERS,2025-02-15,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,4,249.7626
+BESTSELLERS,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,4,216.1864
+BESTSELLERS,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,243,23721.2851
+BESTSELLERS,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,14,2051.9676
+BESTSELLERS,2025-02-16,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,28,1369.3849
+BESTSELLERS,2025-02-16,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,468,44221.6082
+BESTSELLERS,2025-02-16,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,2,41.2800
+BESTSELLERS,2025-02-16,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,38,3536.4983
+BESTSELLERS,2025-02-16,0,0.0,0.0,3,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,74.5000
+BESTSELLERS,2025-02-16,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,86.1328
+BESTSELLERS,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,7,287.0657
+BESTSELLERS,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,229,22174.9062
+BESTSELLERS,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,84.9500
+BESTSELLERS,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,9,1137.2698
+BESTSELLERS,2025-02-16,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,34,1680.0830
+BESTSELLERS,2025-02-16,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,840,80874.1579
+BESTSELLERS,2025-02-16,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,39.9700
+BESTSELLERS,2025-02-16,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,40,4130.4435
+BESTSELLERS,2025-02-16,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,77.3653
+BESTSELLERS,2025-02-16,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,34.9700
+BESTSELLERS,2025-02-16,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,372.4513
+BESTSELLERS,2025-02-16,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,3,369.4003
+BESTSELLERS,2025-02-16,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,260.0645
+BESTSELLERS,2025-02-16,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,13,1181.0825
+BESTSELLERS,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,3,79.8300
+BESTSELLERS,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,33,3587.4345
+BESTSELLERS,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,248.9500
+BESTSELLERS,2025-02-16,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,6,270.2400
+BESTSELLERS,2025-02-16,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,164,17666.5145
+BESTSELLERS,2025-02-16,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,7,211.3304
+BESTSELLERS,2025-02-16,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,29,2653.8402
+BESTSELLERS,2025-02-16,0,1.0,1.0,4,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,74.2600
+BESTSELLERS,2025-02-16,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,20,2695.3239
+BESTSELLERS,2025-02-16,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,166.8600
+BESTSELLERS,2025-02-16,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,31,3159.2158
+BESTSELLERS,2025-02-16,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,131.8500
+BESTSELLERS,2025-02-16,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,89.9400
+BESTSELLERS,2025-02-16,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,27,2408.1511
+BESTSELLERS,2025-02-16,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,131.9200
+BESTSELLERS,2025-02-16,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,123,12209.1056
+BESTSELLERS,2025-02-16,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,4,358.6779
+BESTSELLERS,2025-02-16,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,22.9900
+BESTSELLERS,2025-02-16,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,180.9123
+BESTSELLERS,2025-02-16,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,3,161.4100
+BESTSELLERS,2025-02-16,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,104.3160
+BESTSELLERS,2025-02-16,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,29,2712.3528
+BESTSELLERS,2025-02-16,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,4,274.9029
+BESTSELLERS,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,36.2400
+BESTSELLERS,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,109,12516.0775
+BESTSELLERS,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,7,610.4459
+BESTSELLERS,2025-02-17,0,0.0,0.0,1,HOMBRE,MUJER,1,ha comprado,no coincide,no coincide,2,75.4400
+BESTSELLERS,2025-02-17,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,3,79.8633
+BESTSELLERS,2025-02-17,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,177,14949.4506
+BESTSELLERS,2025-02-17,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,20.9600
+BESTSELLERS,2025-02-17,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,15,1294.9533
+BESTSELLERS,2025-02-17,0,0.0,0.0,3,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,84.9400
+BESTSELLERS,2025-02-17,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,160.3000
+BESTSELLERS,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,52.3200
+BESTSELLERS,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,80,6863.4798
+BESTSELLERS,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,115.0100
+BESTSELLERS,2025-02-17,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,15,662.7407
+BESTSELLERS,2025-02-17,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,328,27708.2566
+BESTSELLERS,2025-02-17,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,14,872.4550
+BESTSELLERS,2025-02-17,0,0.0,1.0,3,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,189.9600
+BESTSELLERS,2025-02-17,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,354.5540
+BESTSELLERS,2025-02-17,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,47.9700
+BESTSELLERS,2025-02-17,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,210.2826
+BESTSELLERS,2025-02-17,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,3,433.0828
+BESTSELLERS,2025-02-17,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,23.2100
+BESTSELLERS,2025-02-17,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,15,861.1321
+BESTSELLERS,2025-02-17,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,3,365.9500
+BESTSELLERS,2025-02-17,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,5,135.8366
+BESTSELLERS,2025-02-17,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,73,7168.5876
+BESTSELLERS,2025-02-17,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,10,693.1900
+BESTSELLERS,2025-02-17,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,7,589.8332
+BESTSELLERS,2025-02-17,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,20,1513.0123
+BESTSELLERS,2025-02-17,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,59.9500
+BESTSELLERS,2025-02-17,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,16.3514
+BESTSELLERS,2025-02-17,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,14,784.7469
+BESTSELLERS,2025-02-17,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,3,138.8900
+BESTSELLERS,2025-02-17,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,56,4228.0152
+BESTSELLERS,2025-02-17,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,71.9500
+BESTSELLERS,2025-02-17,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,4,325.7822
+BESTSELLERS,2025-02-17,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,145.9100
+BESTSELLERS,2025-02-17,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,11,1295.3600
+BESTSELLERS,2025-02-17,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,18.9100
+BESTSELLERS,2025-02-18,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,12,1208.1273
+BESTSELLERS,2025-02-18,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,13,1747.6080
+BESTSELLERS,2025-02-18,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,69.5000
+BESTSELLERS,2025-02-18,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,7,852.4558
+BESTSELLERS,2025-02-18,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,165.5909
+BESTSELLERS,2025-02-18,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,18,1827.3772
+BESTSELLERS,2025-02-18,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,1,116.4594
+BESTSELLERS,2025-02-18,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,179.0000
+BESTSELLERS,2025-02-18,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,4,455.5804
+BESTSELLERS,2025-02-18,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,6,488.8147
+BESTSELLERS,2025-02-18,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,125.8759
+BESTSELLERS,2025-02-18,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,1,99.8800
+BESTSELLERS,2025-02-18,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,323.3339
+BESTSELLERS,2025-02-18,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,261.2500
+BESTSELLERS,2025-02-18,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,1,87.6874
+IA,0,0,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,222586,0
+IA,0,0,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,12383,0
+IA,0,0,0.0,0.0,1,HOMBRE,MUJER,1,no ha comprado,no coincide,no coincide,5,0
+IA,0,0,0.0,0.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,501754,0
+IA,0,0,0.0,0.0,2,NS/NC,HOMBRE,1,no ha comprado,no coincide,no coincide,56520,0
+IA,0,0,0.0,0.0,3,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,332,0
+IA,0,0,0.0,0.0,4,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,530,0
+IA,0,0,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,47919,0
+IA,0,0,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,2095,0
+IA,0,0,0.0,1.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,160955,0
+IA,0,0,0.0,1.0,2,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,10845,0
+IA,0,0,0.0,1.0,3,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,116,0
+IA,0,0,0.0,1.0,4,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,255,0
+IA,0,0,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,1510,0
+IA,0,0,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,71,0
+IA,0,0,1.0,0.0,1,MUJER,HOMBRE,1,no ha comprado,no coincide,no coincide,2721,0
+IA,0,0,1.0,0.0,2,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,4079,0
+IA,0,0,1.0,0.0,3,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,8,0
+IA,0,0,1.0,0.0,4,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,11,0
+IA,0,0,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,4070,0
+IA,0,0,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,195,0
+IA,0,0,1.0,1.0,1,MUJER,MIXTO,1,no ha comprado,no coincide,no coincide,11683,0
+IA,0,0,1.0,1.0,2,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,2887,0
+IA,0,0,1.0,1.0,3,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,17,0
+IA,0,0,1.0,1.0,4,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,36,0
+IA,0,1,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,1375,0
+IA,0,1,0.0,0.0,0,HOMBRE,NS/NC,1,no ha comprado,no coincide,no coincide,101,0
+IA,0,1,0.0,0.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,6087,0
+IA,0,1,0.0,0.0,2,NS/NC,HOMBRE,1,no ha comprado,no coincide,no coincide,576,0
+IA,0,1,0.0,0.0,4,NS/NC,NS/NC,0,no ha comprado,no coincide,no coincide,7,0
+IA,0,1,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,1074,0
+IA,0,1,0.0,1.0,0,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,71,0
+IA,0,1,0.0,1.0,1,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,4855,0
+IA,0,1,0.0,1.0,2,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,169,0
+IA,0,1,0.0,1.0,3,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,2,0
+IA,0,1,0.0,1.0,4,MUJER,MUJER,0,no ha comprado,no coincide,no coincide,4,0
+IA,0,1,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,38,0
+IA,0,1,1.0,0.0,0,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,3,0
+IA,0,1,1.0,0.0,1,MUJER,HOMBRE,1,no ha comprado,no coincide,no coincide,44,0
+IA,0,1,1.0,0.0,2,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,173,0
+IA,0,1,1.0,0.0,4,HOMBRE,HOMBRE,0,no ha comprado,no coincide,no coincide,1,0
+IA,0,1,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,137,0
+IA,0,1,1.0,1.0,0,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,12,0
+IA,0,1,1.0,1.0,1,MUJER,MIXTO,1,no ha comprado,no coincide,no coincide,627,0
+IA,0,1,1.0,1.0,2,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,148,0
+IA,0,1,1.0,1.0,4,MIXTO,MIXTO,0,no ha comprado,no coincide,no coincide,2,0
+IA,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,24.9700
+IA,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,137,11865.9783
+IA,2025-02-12,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,4,490.5513
+IA,2025-02-12,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,12,666.8778
+IA,2025-02-12,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,279,22656.6917
+IA,2025-02-12,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,31.0397
+IA,2025-02-12,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,24,1711.6973
+IA,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,282.8835
+IA,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,85,7631.4529
+IA,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,44.9700
+IA,2025-02-12,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,466.2400
+IA,2025-02-12,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,11,548.4144
+IA,2025-02-12,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,364,28792.1375
+IA,2025-02-12,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,9,664.7480
+IA,2025-02-12,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,76.9400
+IA,2025-02-12,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,165.4500
+IA,2025-02-12,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,1,174.4500
+IA,2025-02-12,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,2,117.9400
+IA,2025-02-12,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,5,533.2600
+IA,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,35.9300
+IA,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,16,1807.7889
+IA,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,74.3300
+IA,2025-02-12,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,74.5000
+IA,2025-02-12,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,3,56.6346
+IA,2025-02-12,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,58,4623.0507
+IA,2025-02-12,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,8,782.6204
+IA,2025-02-12,0,1.0,1.0,4,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,3,208.8183
+IA,2025-02-12,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,2,104.3708
+IA,2025-02-12,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,24,2824.8845
+IA,2025-02-12,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,1,59.5000
+IA,2025-02-12,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,14,903.8921
+IA,2025-02-12,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,42,3501.2603
+IA,2025-02-12,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,4,79.0458
+IA,2025-02-12,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,7,583.0700
+IA,2025-02-12,1,0.0,0.0,3,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,72.9600
+IA,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,12,533.1779
+IA,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,37,3760.2496
+IA,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,39.0600
+IA,2025-02-12,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,174.1200
+IA,2025-02-12,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,34,1426.3226
+IA,2025-02-12,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,135,11907.4663
+IA,2025-02-12,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,48.8900
+IA,2025-02-12,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,539.7600
+IA,2025-02-12,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,29.9700
+IA,2025-02-12,1,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,coincide,no coincide,1,59.5000
+IA,2025-02-12,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,3,235.7255
+IA,2025-02-12,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,5,711.2139
+IA,2025-02-12,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,4,179.1588
+IA,2025-02-12,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,8,607.2221
+IA,2025-02-12,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,6,339.0770
+IA,2025-02-12,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,35,3065.3537
+IA,2025-02-12,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,14.9700
+IA,2025-02-12,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,5,283.9400
+IA,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,16.2900
+IA,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,106,10234.4728
+IA,2025-02-13,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,4,337.9000
+IA,2025-02-13,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,6,192.9749
+IA,2025-02-13,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,257,21077.8941
+IA,2025-02-13,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,24,1666.9900
+IA,2025-02-13,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,3,276.2086
+IA,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,7,418.9650
+IA,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,95,9098.5199
+IA,2025-02-13,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,670.5400
+IA,2025-02-13,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,14,615.3377
+IA,2025-02-13,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,368,33986.1317
+IA,2025-02-13,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,19,1611.7100
+IA,2025-02-13,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,77.3800
+IA,2025-02-13,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,4,258.2500
+IA,2025-02-13,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,105.9200
+IA,2025-02-13,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,4,352.9600
+IA,2025-02-13,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,10.4743
+IA,2025-02-13,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,19,1303.1584
+IA,2025-02-13,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,3,180.1348
+IA,2025-02-13,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,3,117.4652
+IA,2025-02-13,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,67,6680.0766
+IA,2025-02-13,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,11,1021.0059
+IA,2025-02-13,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,9,543.1268
+IA,2025-02-13,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,1,206.8300
+IA,2025-02-13,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,200.8956
+IA,2025-02-13,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,25,2526.1632
+IA,2025-02-13,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,21.2300
+IA,2025-02-13,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,2,66.2000
+IA,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,70.3762
+IA,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,11,1593.1092
+IA,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,97.4918
+IA,2025-02-13,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,89.0000
+IA,2025-02-13,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,11,489.7800
+IA,2025-02-13,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,77,6939.2111
+IA,2025-02-13,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,130.0981
+IA,2025-02-13,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,2,75.9300
+IA,2025-02-13,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,184.0884
+IA,2025-02-13,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,3,82.9500
+IA,2025-02-13,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,19,1407.8922
+IA,2025-02-13,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,65.9735
+IA,2025-02-13,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,9,812.2019
+IA,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,55.3406
+IA,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,319,30445.1040
+IA,2025-02-14,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,17,1061.5936
+IA,2025-02-14,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,23,940.1229
+IA,2025-02-14,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,544,46532.3862
+IA,2025-02-14,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,4,188.2141
+IA,2025-02-14,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,48,4719.3856
+IA,2025-02-14,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,2,243.6097
+IA,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,22,872.8158
+IA,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,314,28166.3555
+IA,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,61.8132
+IA,2025-02-14,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,22,2332.7425
+IA,2025-02-14,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,105,4072.4140
+IA,2025-02-14,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1254,112688.5461
+IA,2025-02-14,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,55.9700
+IA,2025-02-14,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,50,3570.5271
+IA,2025-02-14,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,70.7367
+IA,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,59.5000
+IA,2025-02-14,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,5,363.7100
+IA,2025-02-14,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,1,38.9500
+IA,2025-02-14,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,7,370.0448
+IA,2025-02-14,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,12,1438.1619
+IA,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,5,150.2615
+IA,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,65,6780.2702
+IA,2025-02-14,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,6,533.3510
+IA,2025-02-14,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,16,588.7592
+IA,2025-02-14,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,223,21375.7769
+IA,2025-02-14,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,4,219.9563
+IA,2025-02-14,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,39,3887.6251
+IA,2025-02-14,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,3,131.6100
+IA,2025-02-14,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,28,1815.0637
+IA,2025-02-14,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,7,231.8801
+IA,2025-02-14,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,59,5338.8884
+IA,2025-02-14,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,6,766.3909
+IA,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,126.0424
+IA,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,48,4992.7078
+IA,2025-02-14,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,104.2349
+IA,2025-02-14,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,20,819.9465
+IA,2025-02-14,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,186,15650.2584
+IA,2025-02-14,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,9,408.4727
+IA,2025-02-14,1,0.0,1.0,3,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,84.5000
+IA,2025-02-14,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,2,139.4700
+IA,2025-02-14,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,57.7932
+IA,2025-02-14,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,14,813.7670
+IA,2025-02-14,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,67.9600
+IA,2025-02-14,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,1,45.4700
+IA,2025-02-14,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,47,3984.1205
+IA,2025-02-14,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,10,1008.0208
+IA,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,3,130.0487
+IA,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,216,23359.4571
+IA,2025-02-15,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,8,1161.7900
+IA,2025-02-15,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,24,1373.4612
+IA,2025-02-15,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,528,47431.7682
+IA,2025-02-15,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,2,64.9500
+IA,2025-02-15,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,53,4359.2435
+IA,2025-02-15,0,0.0,0.0,4,NS/NC,NS/NC,0,ha comprado,no coincide,no coincide,1,154.4800
+IA,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,13,505.2935
+IA,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,251,21305.0560
+IA,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,14.9700
+IA,2025-02-15,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,15,1329.4256
+IA,2025-02-15,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,52,2317.1947
+IA,2025-02-15,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,967,90372.4971
+IA,2025-02-15,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,184.0200
+IA,2025-02-15,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,41,3452.4378
+IA,2025-02-15,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,6,682.4800
+IA,2025-02-15,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,44.9800
+IA,2025-02-15,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,coincide,no coincide,1,14.3800
+IA,2025-02-15,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,11,1252.7700
+IA,2025-02-15,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,171.0871
+IA,2025-02-15,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,12,873.8900
+IA,2025-02-15,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,43,4285.3304
+IA,2025-02-15,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,5,232.9800
+IA,2025-02-15,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,7,320.2814
+IA,2025-02-15,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,186,19836.2260
+IA,2025-02-15,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,63.1811
+IA,2025-02-15,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,35,3597.0239
+IA,2025-02-15,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,1,119.0000
+IA,2025-02-15,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,17,1698.8186
+IA,2025-02-15,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,2,60.9300
+IA,2025-02-15,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,230.2100
+IA,2025-02-15,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,41,3885.2493
+IA,2025-02-15,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,14.9750
+IA,2025-02-15,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,3,163.4200
+IA,2025-02-15,1,0.0,0.0,3,NS/NC,NS/NC,0,ha comprado,coincide,no coincide,1,31.4900
+IA,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,2,81.4800
+IA,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,21,1591.8449
+IA,2025-02-15,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,212.6000
+IA,2025-02-15,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,10,408.6800
+IA,2025-02-15,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,146,12617.2081
+IA,2025-02-15,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,4,279.1700
+IA,2025-02-15,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,31.9800
+IA,2025-02-15,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,2,61.9400
+IA,2025-02-15,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,4,189.5900
+IA,2025-02-15,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,6,806.0105
+IA,2025-02-15,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,40,3938.2233
+IA,2025-02-15,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,49.9400
+IA,2025-02-15,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,6,522.8900
+IA,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,3,138.5887
+IA,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,250,25320.6460
+IA,2025-02-16,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,8,1177.6775
+IA,2025-02-16,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,14,710.2936
+IA,2025-02-16,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,414,36259.0804
+IA,2025-02-16,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,64.9393
+IA,2025-02-16,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,44,4104.1463
+IA,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,11,567.1874
+IA,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,233,26395.2763
+IA,2025-02-16,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,16,1571.8920
+IA,2025-02-16,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,56,2240.0621
+IA,2025-02-16,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,885,88476.8764
+IA,2025-02-16,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,64.9500
+IA,2025-02-16,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,36,2843.6944
+IA,2025-02-16,0,0.0,1.0,4,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,189.0000
+IA,2025-02-16,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,24.9700
+IA,2025-02-16,0,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,7,516.6485
+IA,2025-02-16,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,4,373.4205
+IA,2025-02-16,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,4,222.2115
+IA,2025-02-16,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,18,1629.1017
+IA,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,80.4400
+IA,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,35,3571.0289
+IA,2025-02-16,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,157.4128
+IA,2025-02-16,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,5,279.2524
+IA,2025-02-16,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,160,14942.4179
+IA,2025-02-16,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,6,169.0800
+IA,2025-02-16,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,28,2662.5795
+IA,2025-02-16,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,9,845.1080
+IA,2025-02-16,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,5,232.4300
+IA,2025-02-16,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,34,2444.2719
+IA,2025-02-16,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,85.3534
+IA,2025-02-16,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,3,230.9856
+IA,2025-02-16,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,24,1853.1475
+IA,2025-02-16,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,3,276.4600
+IA,2025-02-16,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,16,538.8500
+IA,2025-02-16,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,130,10334.1596
+IA,2025-02-16,1,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,199.8126
+IA,2025-02-16,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,46.3800
+IA,2025-02-16,1,1.0,0.0,0,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,49.9700
+IA,2025-02-16,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,coincide,no coincide,1,49.9400
+IA,2025-02-16,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,2,259.8300
+IA,2025-02-16,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,2,141.6211
+IA,2025-02-16,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,7,595.6853
+IA,2025-02-16,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,27,2387.4317
+IA,2025-02-16,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,5,304.3500
+IA,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,coincide,no coincide,2,72.5000
+IA,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,102,8758.8370
+IA,2025-02-17,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,2,71.5792
+IA,2025-02-17,0,0.0,0.0,1,HOMBRE,MUJER,1,ha comprado,no coincide,no coincide,4,395.1900
+IA,2025-02-17,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,10,397.5361
+IA,2025-02-17,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,241,19317.9220
+IA,2025-02-17,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,coincide,no coincide,1,49.9400
+IA,2025-02-17,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,21,2486.7900
+IA,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,3,180.9556
+IA,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,87,7649.7407
+IA,2025-02-17,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,6,764.0300
+IA,2025-02-17,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,13,452.9800
+IA,2025-02-17,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,301,26516.5117
+IA,2025-02-17,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,11,812.0080
+IA,2025-02-17,0,1.0,0.0,1,MUJER,HOMBRE,1,ha comprado,no coincide,no coincide,2,222.9282
+IA,2025-02-17,0,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,6,489.3100
+IA,2025-02-17,0,1.0,0.0,4,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,1,185.7000
+IA,2025-02-17,0,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,10,1249.5016
+IA,2025-02-17,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,2,166.7300
+IA,2025-02-17,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,67,5536.8550
+IA,2025-02-17,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,99.9500
+IA,2025-02-17,0,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,5,425.2900
+IA,2025-02-17,1,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,7,819.7551
+IA,2025-02-17,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,29.9700
+IA,2025-02-17,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,13,1434.3679
+IA,2025-02-17,1,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,59.5000
+IA,2025-02-17,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,14.9700
+IA,2025-02-17,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,8,679.9881
+IA,2025-02-17,1,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,148.0100
+IA,2025-02-17,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,4,96.3600
+IA,2025-02-17,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,45,3188.2264
+IA,2025-02-17,1,1.0,0.0,2,HOMBRE,HOMBRE,0,ha comprado,no coincide,no coincide,2,224.5600
+IA,2025-02-17,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,coincide,no coincide,1,11.9700
+IA,2025-02-17,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,2,400.7508
+IA,2025-02-17,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,1,10.0800
+IA,2025-02-17,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,6,184.6072
+IA,2025-02-17,1,1.0,1.0,2,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,3,245.3660
+IA,2025-02-18,0,0.0,0.0,0,HOMBRE,NS/NC,1,ha comprado,no coincide,no coincide,12,1417.2241
+IA,2025-02-18,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,47.9700
+IA,2025-02-18,0,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,14,923.9028
+IA,2025-02-18,0,0.0,0.0,2,NS/NC,HOMBRE,1,ha comprado,no coincide,no coincide,1,23.9800
+IA,2025-02-18,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,coincide,no coincide,1,60.5589
+IA,2025-02-18,0,0.0,1.0,0,MUJER,MUJER,0,ha comprado,no coincide,no coincide,4,334.9677
+IA,2025-02-18,0,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,20,3073.4123
+IA,2025-02-18,0,0.0,1.0,2,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,111.6000
+IA,2025-02-18,0,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,1,50.3700
+IA,2025-02-18,1,0.0,0.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,1,30.5434
+IA,2025-02-18,1,0.0,1.0,1,MUJER,MUJER,0,ha comprado,no coincide,no coincide,2,170.4844
+IA,2025-02-18,1,1.0,1.0,0,MIXTO,MIXTO,0,ha comprado,no coincide,no coincide,1,56.7286
+IA,2025-02-18,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,coincide,no coincide,1,14.9700
+IA,2025-02-18,1,1.0,1.0,1,MUJER,MIXTO,1,ha comprado,no coincide,no coincide,1,110.0400
