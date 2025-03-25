@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_df9834ccf943a8ceaff6f83022b0a218 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_df9834ccf943a8ceaff6f83022b0a218" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_df9834ccf943a8ceaff6f83022b0a218 = L.map(
+                "map_df9834ccf943a8ceaff6f83022b0a218",
+                {
+                    center: [60.472, 8.4689],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 6,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8b81171ade464a65875c948c7f0d82c5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_8b81171ade464a65875c948c7f0d82c5.addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var marker_dc9cea0a86c3ff0cda17277c2f498bfe = L.marker(
+                [59.9139, 10.7522],
+                {
+}
+            ).addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var icon_5c167c1ded991f18c6edfedfc275d42b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_83b6ba7b3a86727f9d18ed23ea0ef7d3 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d7a2e0657e622264fcf16e0666f6affd = $(`<div id="html_d7a2e0657e622264fcf16e0666f6affd" style="width: 100.0%; height: 100.0%;">Hotel en Oslo</div>`)[0];
+                popup_83b6ba7b3a86727f9d18ed23ea0ef7d3.setContent(html_d7a2e0657e622264fcf16e0666f6affd);
+            
+        
+
+        marker_dc9cea0a86c3ff0cda17277c2f498bfe.bindPopup(popup_83b6ba7b3a86727f9d18ed23ea0ef7d3)
+        ;
+
+        
+    
+    
+                marker_dc9cea0a86c3ff0cda17277c2f498bfe.setIcon(icon_5c167c1ded991f18c6edfedfc275d42b);
+            
+    
+            var marker_a2219826fb225c88ec7d7f298f8fc17d = L.marker(
+                [60.3913, 5.3221],
+                {
+}
+            ).addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var icon_231983d7a5f37edd5dab9bdeea130720 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_99cf055690fb2665d35cf46b9f2bf19f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a910c6f8ac301251546d5a262e67c6f5 = $(`<div id="html_a910c6f8ac301251546d5a262e67c6f5" style="width: 100.0%; height: 100.0%;">Bergen</div>`)[0];
+                popup_99cf055690fb2665d35cf46b9f2bf19f.setContent(html_a910c6f8ac301251546d5a262e67c6f5);
+            
+        
+
+        marker_a2219826fb225c88ec7d7f298f8fc17d.bindPopup(popup_99cf055690fb2665d35cf46b9f2bf19f)
+        ;
+
+        
+    
+    
+                marker_a2219826fb225c88ec7d7f298f8fc17d.setIcon(icon_231983d7a5f37edd5dab9bdeea130720);
+            
+    
+            var marker_a370c9a275add509f41605b044c44b92 = L.marker(
+                [69.6496, 18.956],
+                {
+}
+            ).addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var icon_269e91d794eae689eabaee0aa00e5b70 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_76e184ee79d0ccdb34cfb2a034580f9a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1549124caa79c66f4e4c61323cf28c3d = $(`<div id="html_1549124caa79c66f4e4c61323cf28c3d" style="width: 100.0%; height: 100.0%;">Restaurante en Tromsø</div>`)[0];
+                popup_76e184ee79d0ccdb34cfb2a034580f9a.setContent(html_1549124caa79c66f4e4c61323cf28c3d);
+            
+        
+
+        marker_a370c9a275add509f41605b044c44b92.bindPopup(popup_76e184ee79d0ccdb34cfb2a034580f9a)
+        ;
+
+        
+    
+    
+                marker_a370c9a275add509f41605b044c44b92.setIcon(icon_269e91d794eae689eabaee0aa00e5b70);
+            
+    
+            var marker_ec303790c73e7cd89044ec0d24eed804 = L.marker(
+                [62.4723, 6.1549],
+                {
+}
+            ).addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var icon_304ab873176c59974d87b257912f9c68 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_98586b90641a33fecff8da41bda425e8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_926bb9fc4048dd35689902394d1da977 = $(`<div id="html_926bb9fc4048dd35689902394d1da977" style="width: 100.0%; height: 100.0%;">Alesund</div>`)[0];
+                popup_98586b90641a33fecff8da41bda425e8.setContent(html_926bb9fc4048dd35689902394d1da977);
+            
+        
+
+        marker_ec303790c73e7cd89044ec0d24eed804.bindPopup(popup_98586b90641a33fecff8da41bda425e8)
+        ;
+
+        
+    
+    
+                marker_ec303790c73e7cd89044ec0d24eed804.setIcon(icon_304ab873176c59974d87b257912f9c68);
+            
+    
+            var marker_23edd1942ab5c04d36bf91d9042a9b11 = L.marker(
+                [63.4305, 10.3951],
+                {
+}
+            ).addTo(map_df9834ccf943a8ceaff6f83022b0a218);
+        
+    
+            var icon_80bdb611d822117d6e5328aebafa698a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0ce55f599950ec1bc787d31e16ad089d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a95c275c1e5611e7171b9fb6c65bbb16 = $(`<div id="html_a95c275c1e5611e7171b9fb6c65bbb16" style="width: 100.0%; height: 100.0%;">Hotel en Trondheim</div>`)[0];
+                popup_0ce55f599950ec1bc787d31e16ad089d.setContent(html_a95c275c1e5611e7171b9fb6c65bbb16);
+            
+        
+
+        marker_23edd1942ab5c04d36bf91d9042a9b11.bindPopup(popup_0ce55f599950ec1bc787d31e16ad089d)
+        ;
+
+        
+    
+    
+                marker_23edd1942ab5c04d36bf91d9042a9b11.setIcon(icon_80bdb611d822117d6e5328aebafa698a);
+            
+</script>
+</html>
